@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+
+    <string name="hint_nombrecompleto">Nombre Completo</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telefono">Telefono</string>
+
+    <string name="hint_descripcioncontacto">Descripción Contacto</string>
+    <string name="btn_siguiente">SIGUIENTE </string>
+
+    <string name="btn_editar">Editar Datos </string>
+    <string name="confirmar_datos">Confirmar Datos </string>
+
+
+    <string name="extra_nombre_completo">MombreCompleto</string>
+    <string name="extra_telefono">Telefono</string>
+    <string name="extra_email">Email</string>
+    <string name="extra_descripcion">DescripcionContacto</string>
+    <string name="extra_anio">Anio</string>
+    <string name="extra_mes">Mes</string>
+    <string name="extra_dia">Dia</string>
+    <string name="extra_fecha">Fecha</string>
+
+
+
+    <string name="confirmar_datos_nombre">Nombre:  </string>
+    <string name="confirmar_datos_telefono">Telefono: </string>
+    <string name="confirmar_datos_email">Email: </string>
+    <string name="confirmar_datos_descripcion">Descripcion: </string>
+    <string name="confirmar_datos_fecha">Fecha Nacimiento: </string>
+
+
+</resources>
